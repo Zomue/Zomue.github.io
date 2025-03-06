@@ -23,7 +23,7 @@ Perform 3 NF
 Mapped the Normalized tables as a Physical Data Model
 
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
-![screenshot](images/
+![screenshot](images/Raw.png)
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 Sample Output
