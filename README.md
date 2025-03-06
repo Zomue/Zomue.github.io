@@ -8,5 +8,5 @@
 - I graduate Grade 11 - 12 at Francisco G Nepomuceno Memorial High School
 
 ## My Projects:
--Midterm Lab Task 1:[Data Cleaning and Preperation using EXCEL](Midterm%20Lab%20Task/README.md)
+-Midterm Lab Task 1:[Data Cleaning and Preperation using EXCEL](Midterm%20Lab%20Task/README.md) 
 -Midterm Lab Task 2:
