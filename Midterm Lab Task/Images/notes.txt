@@ -1,0 +1,26 @@
+let
+    Source = Excel.Workbook(File.Contents("C:\Users\abund\Downloads\Uncleaned_DS_jobs.xlsx"), null, true),
+    Uncleaned_DS_jobs_Sheet = Source{[Item="Uncleaned_DS_jobs",Kind="Sheet"]}[Data],
+    #"Extracted Text Before Delimiter" = Table.TransformColumns(Uncleaned_DS_jobs_Sheet, {{"Column3", each Text.BeforeDelimiter(_, "("), type text}}),
+    #"Inserted Text Before Delimiter" = Table.AddColumn(#"Extracted Text Before Delimiter", "Min sal", each Text.BeforeDelimiter(Text.Lower([Column3]), "-"), type text),
+    #"Reordered Columns" = Table.ReorderColumns(#"Inserted Text Before Delimiter",{"Column1", "Column2", "Min sal", "Column3", "Column4", "Column5", "Column6", "Column7", "Column8", "Column9", "Column10", "Column11", "Column12", "Column13", "Column14", "Column15"}),
+    #"Inserted Text After Delimiter" = Table.AddColumn(#"Reordered Columns", "Max sal", each Text.AfterDelimiter([Column3], "-"), type text),
+    #"Reordered Columns1" = Table.ReorderColumns(#"Inserted Text After Delimiter",{"Column1", "Column2", "Min sal", "Max sal", "Column3", "Column4", "Column5", "Column6", "Column7", "Column8", "Column9", "Column10", "Column11", "Column12", "Column13", "Column14", "Column15"}),
+    #"Added Custom" = Table.AddColumn(#"Reordered Columns1", "Role type", each if [Column2] = "Data Scientist" then "Data Scientist" else if [Column2] = "Data Analyst" then "Data Analyst" else if [Column2] = "Data Engineer" then "Data Engineer" else if [Column2] = "Machine Learning" then "Machine Learning Engineer" else "other"),
+    #"Reordered Columns2" = Table.ReorderColumns(#"Added Custom",{"Column1", "Role type", "Column2", "Min sal", "Max sal", "Column3", "Column4", "Column5", "Column6", "Column7", "Column8", "Column9", "Column10", "Column11", "Column12", "Column13", "Column14", "Column15"}),
+    #"Split Column by Delimiter" = Table.SplitColumn(#"Reordered Columns2", "Column7", Splitter.SplitTextByEachDelimiter({","}, QuoteStyle.Csv, true), {"Column7.1", "Column7.2"}),
+    #"Changed Type" = Table.TransformColumnTypes(#"Split Column by Delimiter",{{"Column7.1", type text}, {"Column7.2", type text}}),
+    #"Renamed Columns" = Table.RenameColumns(#"Changed Type",{{"Column7.2", "State Abbreviations"}}),
+    #"Replaced Value" = Table.ReplaceValue(#"Renamed Columns","Anne Rundell","MA",Replacer.ReplaceText,{"State Abbreviations"}),
+    #"Extracted Text Before Delimiter1" = Table.TransformColumns(#"Replaced Value", {{"Column9", each Text.BeforeDelimiter(_, "e"), type text}}),
+    #"Inserted Text Before Delimiter1" = Table.AddColumn(#"Extracted Text Before Delimiter1", "Text Before Delimiter", each Text.BeforeDelimiter([Column9], " "), type text),
+    #"Renamed Columns1" = Table.RenameColumns(#"Inserted Text Before Delimiter1",{{"Text Before Delimiter", "MinCompanySize"}}),
+    #"Reordered Columns3" = Table.ReorderColumns(#"Renamed Columns1",{"Column1", "Role type", "Column2", "Min sal", "Max sal", "Column3", "Column4", "Column5", "Column6", "Column7.1", "State Abbreviations", "Column8", "MinCompanySize", "Column9", "Column10", "Column11", "Column12", "Column13", "Column14", "Column15"}),
+    #"Inserted Text After Delimiter1" = Table.AddColumn(#"Reordered Columns3", "Text After Delimiter", each Text.AfterDelimiter([Column9], " ", 1), type text),
+    #"Renamed Columns2" = Table.RenameColumns(#"Inserted Text After Delimiter1",{{"Text After Delimiter", "MaxCompanySize"}}),
+    #"Reordered Columns4" = Table.ReorderColumns(#"Renamed Columns2",{"Column1", "Role type", "Column2", "Min sal", "Max sal", "Column3", "Column4", "Column5", "Column6", "Column7.1", "State Abbreviations", "Column8", "MinCompanySize", "MaxCompanySize", "Column9", "Column10", "Column11", "Column12", "Column13", "Column14", "Column15"}),
+    #"Filtered Rows" = Table.SelectRows(#"Reordered Columns4", each [Column15] <> "Commerce Signals, Cardlytics, Yodlee"),
+    #"Filtered Rows1" = Table.SelectRows(#"Filtered Rows", each [Column14] <> "$100 to $500 million (USD)"),
+    #"Filtered Rows2" = Table.SelectRows(#"Filtered Rows1", each [Column12] <> "Biotech & Pharmaceuticals")
+in
+    #"Filtered Rows2"
