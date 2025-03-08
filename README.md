@@ -10,4 +10,4 @@
 ## My Projects:
 -Midterm Lab Task 1:[Data Cleaning and Preperation using EXCEL](Midterm%20Lab%20Task/README.md) 
 
--Midterm Lab Task 2:[Data Cleaning and Preperation using POWER QUERY](Midterm%20Lab%20Task2/README.md)
+-Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](Midterm%20Task%202/README.md)
