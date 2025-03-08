@@ -3,6 +3,6 @@
 
 ![picture](https://github.com/Zomue/Zomue/blob/main/Midterm%20Lab%20Task/Images/Query%20Dependencies%20orig.png)
 
-
+![picture](https://github.com/Zomue/Zomue/blob/main/Midterm%20Lab%20Task/Images/Note%20pad.png)
 
 
