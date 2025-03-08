@@ -1,7 +1,7 @@
 
 # Midterm Task 2 - Data Cleaning and Preparation using POWER QUERY 
 
-![screenshot](Images/QueryDependenciesorig.png)
+![picture](https://github.com/Zomue/Zomue/blob/main/Midterm%20Lab%20Task/Images/Query%20Dependencies%20orig.png)
 
 
 
