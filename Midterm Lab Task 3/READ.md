@@ -7,7 +7,7 @@
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Sal%20by%20Size%20PIC.png)
 
 ## Sal by State 
-![picture]
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Sal%20by%20State%20PIC.png)
 
 ## This Picture Shows the Pivot Table
 ![picture](https://github.com/Zomue/Zomue/blob/main/Image/Screenshot%202025-03-14%20224753.png) 
