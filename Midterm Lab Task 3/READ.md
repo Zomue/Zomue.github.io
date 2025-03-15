@@ -3,6 +3,12 @@
 ## Sal by Role Type
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Sal%20by%20Role%20Type%20PIC.png)
 
+## Sal by Size 
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Sal%20by%20Size%20PIC.png)
+
+## Sal by State 
+![picture]
+
 ## This Picture Shows the Pivot Table
 ![picture](https://github.com/Zomue/Zomue/blob/main/Image/Screenshot%202025-03-14%20224753.png) 
 
