@@ -61,7 +61,7 @@ employee id: Integer, foreign key referencing employee_id in employees.
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20Employees%20project_tbl%201.png)
 
 ## 5. Manager Table. 
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20Manager_tbl%201.png)
 
 # ER Diagram 
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20eer%20diagram%201.png)
