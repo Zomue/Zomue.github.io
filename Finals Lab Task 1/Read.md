@@ -32,12 +32,16 @@ employee id: Integer, foreign key referencing employee_id in employees.
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20employees%20table.png)
 
 ## 2. Department Table.
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20Department%20table.png)
 
 ## 3. Employee Dapartment Table.
+![picture]()
 
 ## 4. Eployee Project Table. 
+![picture]()
 
 ## 5. Manager Table. 
+![picture]()
 
 
 
@@ -48,13 +52,16 @@ employee id: Integer, foreign key referencing employee_id in employees.
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20enployees%20table%201.png)
 
 ## 2. Dapertment Table.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20Department%20table.png)
+![picture]()
 
 ## 3. Employee Dapartment Table.
+![picture]()
 
 ## 4. Eployee Project Table. 
+![picture]()
 
 ## 5. Manager Table. 
+![picture]()
 
 # ER Diagram 
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20eer%20diagram%201.png)
