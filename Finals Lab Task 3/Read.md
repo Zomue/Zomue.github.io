@@ -45,10 +45,10 @@ Product 10: "Speakers", 9.99
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Task%202.png)
 
 ## Task 3.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Task%203.png)
 
 ## Task 4. 
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Task%204.png)
 
 # Here's The Table Structure.
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20product%20tbl%202.png)
