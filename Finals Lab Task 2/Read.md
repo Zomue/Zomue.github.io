@@ -18,3 +18,33 @@ shortname: String (VARCHAR), up to 50 characters.
 version: Integer, represents the version of the submission.
 submit date: Date, cannot be null.
 data: Text.
+
+# Here's The Query Statements
+
+## 1.Student Table.
+![picture]()
+
+## 2.Assignment Table.
+![picture]()
+
+## 3.Submission Table.
+![picture]()
+
+# Here's The Table Structures
+
+## 1.Student Table.
+![picture]()
+
+## 2.Assignment Table.
+![picture]()
+
+## 3.Submission Table.
+![picture]()
+
+
+# Entity-Relationship Diagram (EER):
+![picture]()
+
+# The Basis for the Creation of the Ralational Tables:
+![picture]()
+
