@@ -7,7 +7,7 @@ In converting the ER diagram, the following are the data types of the attributes
 ## student table:
 username: String (VARCHAR), up to 50 characters.
 
-##assignment table:
+## assignment table:
 shortname: String (VARCHAR), up to 50 characters.
 due date: Date, cannot be null.
 url: String (VARCHAR), up to 255 characters, can be null.
