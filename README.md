@@ -15,4 +15,8 @@
 - Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD using EXCEL](https://github.com/Zomue/Zomue/blob/main/Midterm%20Lab%20Task%203/READ.md)
 
 ## MY Finals Projects:
--
+- Finals Lab Task 1:[My SQL Basics]()
+
+- Finals Lab Task 2:[MYSQL Databae Creation]()
+
+- Finals Lab Task 3:[Table Manipulation]()
