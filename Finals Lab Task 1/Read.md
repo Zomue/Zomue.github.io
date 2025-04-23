@@ -1,6 +1,7 @@
 # Finals Lab Task 1. MySQL Basics Multi-Level Company
 The following are the tasks that need to be implemented using MySQL statements. Make sure to complete them in the order specified:
 
+
 ## Task 1: Create a table named employees with the following fields:
 employee id: Unique integer, auto-increment, primary key.
 employee name: String (VARCHAR) with up to 255 characters, not null.
@@ -22,3 +23,31 @@ project name: String (VARCHAR) with up to 255 characters, not null.
 ## Task 5: Create a table named managers with the following fields:
 manager id: Unique integer, auto-increment, primary key.
 employee id: Integer, foreign key referencing employee_id in employees.
+
+
+# Here's the Query Statement 
+
+## 1. Employee Table.
+
+## 2. Department Table.
+
+## 3. Employee Dapartment Table.
+
+## 4. Eployee Project Table. 
+
+## 5. Manager Table. 
+
+
+# Here's the Table Structure 
+
+## 1. Employee Table.
+
+## 2. Dapertment Table.
+
+## 3. Employee Dapartment Table.
+
+## 4. Eployee Project Table. 
+
+## 5. Manager Table. 
+
+# ER Diagram 
