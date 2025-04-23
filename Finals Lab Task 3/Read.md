@@ -56,4 +56,4 @@ Product 10: "Speakers", 9.99
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20table%20structure.png)
 
 # ER Diagram.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20ER%20.png)
