@@ -36,7 +36,7 @@ data: Text.
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1.1.png)
 
 ## 2.Assignment Table.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/assignment_tbl2.png)
 
 ## 3.Submission Table.
 ![picture]()
