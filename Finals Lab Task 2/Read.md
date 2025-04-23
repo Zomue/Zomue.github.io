@@ -22,7 +22,7 @@ data: Text.
 # Here's The Query Statements
 
 ## 1.Student Table.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1.1%20(2).png)
 
 ## 2.Assignment Table.
 ![picture]()
