@@ -28,7 +28,8 @@ data: Text.
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/assignment%20tbl.png)
 
 ## 3.Submission Table.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/submission%20tbl.png)
+
 
 # Here's The Table Structures
 
