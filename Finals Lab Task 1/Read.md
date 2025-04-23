@@ -40,9 +40,12 @@ employee id: Integer, foreign key referencing employee_id in employees.
 ## 5. Manager Table. 
 
 
+
+
 # Here's the Table Structure 
 
 ## 1. Employee Table.
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20enployees%20table%201.png)
 
 ## 2. Dapertment Table.
 
