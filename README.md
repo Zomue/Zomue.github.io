@@ -1,5 +1,5 @@
-# About me:
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/profile.jpg)
+# About me:
 - Hi My name is "Renzo P. Yumang" I am 19 year old and currently studying at City College of Angeles. I am taking Batchelor of Science in Information Systems.
 
 ## Skills:
