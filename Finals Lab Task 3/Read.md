@@ -2,10 +2,10 @@
 The following are the tasks that need to be implemented using MySQL statements. Make sure to complete them in the order specified:
 
 ## Task 1: Create a table named products with the following fields:
-Id: Unique integer, 
-auto-increment, primary key.
-product name: String (VARCHAR) with a maximum length of 100,
-cannot be null.
+Id: Unique integer, auto-increment, primary key.
+
+product name: String (VARCHAR) with a maximum length of 100,cannot be null.
+
 price: Decimal
 
 ## Task 2: Add a CHECK constraint to ensure that the price of the product must be greater
