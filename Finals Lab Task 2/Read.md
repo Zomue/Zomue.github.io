@@ -40,7 +40,7 @@ data: Text.
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/assignment_tbl2.png)
 
 ## 3.Submission Table.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/submission_tbl2.png)
 
 
 # Entity-Relationship Diagram (EER):
