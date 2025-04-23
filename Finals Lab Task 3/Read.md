@@ -53,5 +53,7 @@ Product 10: "Speakers", 9.99
 # Here's The Table Structure.
 ![picture]()
 
+![picture]()
+
 # ER Diagram.
 ![picture]()
