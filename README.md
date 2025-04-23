@@ -12,8 +12,7 @@
 
 - Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](https://github.com/Zomue/Zomue.github.io/blob/main/Midterm%20Lab%20Task%202/READ.md)
 
-- Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD using EXCEL](https://github.com/Zomue/Zomue/blob/main/Midterm%20Lab%20Task%203/READ.md)
-
+- Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD using EXCEL](https://github.com/Zomue/Zomue.github.io/blob/main/Midterm%20Lab%20Task%203/READ.md)
 ## MY Finals Projects:
 - Finals Lab Task 1:[My SQL Basics](https://github.com/Zomue/Zomue.github.io/blob/main/Finals%20Lab%20Task%201/Read.md)
 
