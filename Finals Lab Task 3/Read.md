@@ -39,7 +39,7 @@ Product 10: "Speakers", 9.99
 # Here's The Query Table.
 
 ## Task 1.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20product%20tbl.png)
 
 ## Task 2.
 ![picture]()
