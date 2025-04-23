@@ -25,9 +25,11 @@ manager id: Unique integer, auto-increment, primary key.
 employee id: Integer, foreign key referencing employee_id in employees.
 
 
+
 # Here's the Query Statement 
 
 ## 1. Employee Table.
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20employees%20table.png)
 
 ## 2. Department Table.
 
