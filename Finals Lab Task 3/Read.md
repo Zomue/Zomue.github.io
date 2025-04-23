@@ -35,3 +35,23 @@ Product 10: "Speakers", 9.99
 
 
 ## Task 4: Modify the product name field to have a maximum length of 120 characters.
+
+# Here's The Query Table.
+
+## Task 1.
+![picture]()
+
+## Task 2.
+![picture]()
+
+## Task 3.
+![picture]()
+
+## Task 4. 
+![picture]()
+
+# Here's The Table Structure.
+![picture]()
+
+# ER Diagram.
+![picture]()
