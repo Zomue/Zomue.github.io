@@ -35,7 +35,7 @@ employee id: Integer, foreign key referencing employee_id in employees.
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20Department%20table.png)
 
 ## 3. Employee Dapartment Table.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/EMPLOYEES%20DEPARTMENT%20TABLE.png)
 
 ## 4. Eployee Project Table. 
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1%20employees%20project%20tbl%201.png)
