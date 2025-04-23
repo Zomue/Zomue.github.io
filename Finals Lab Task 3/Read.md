@@ -51,7 +51,7 @@ Product 10: "Speakers", 9.99
 ![picture]()
 
 # Here's The Table Structure.
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20product%20tbl%202.png)
 
 ![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20table%20structure.png)
 
