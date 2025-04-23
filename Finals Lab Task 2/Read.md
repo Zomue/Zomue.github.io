@@ -47,5 +47,5 @@ data: Text.
 ![picture]()
 
 # The Basis for the Creation of the Ralational Tables:
-![picture]()
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/creation%20of%20relational%20tbl.png)
 
