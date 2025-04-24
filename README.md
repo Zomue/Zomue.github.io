@@ -20,3 +20,6 @@
 - Finals Lab Task 2:[MYSQL Databae Creation](https://github.com/Zomue/Zomue.github.io/blob/main/Finals%20Lab%20Task%202/Read.md)
 
 - Finals Lab Task 3:[Table Manipulation](https://github.com/Zomue/Zomue.github.io/blob/main/Finals%20Lab%20Task%203/Read.md)
+
+
+- Finals Lab Task: [MYSQL CLAUSE](https://github.com/Zomue/Zomue.github.io/blob/main/Finals%20Task%20(SQL%20CLAUSE)/ReaDME.md)
