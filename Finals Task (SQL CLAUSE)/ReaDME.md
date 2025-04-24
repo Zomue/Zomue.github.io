@@ -38,3 +38,5 @@ students enralled: Integer, not null.
 ## Task 4: Calculate the total number of students enrolled across all courses.
 
 ## Task 5: Sort courses by students enrolled in ascending order.
+
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/RENZO%200.1.png)
