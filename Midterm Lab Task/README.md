@@ -33,4 +33,4 @@ Sample Output
 
 Here's the Physical Data Model
 
-![screenshot](Images/Diagram)
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Midterm%20Lab%20Task/Images/Diagram)
