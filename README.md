@@ -9,17 +9,18 @@
 - I graduate Grade 11 - 12 at Francisco G Nepomuceno Memorial High School
 
 ## My MidTerm's Projects:
-- Midterm Lab Task 1:[Data Cleaning and Preperation using EXCEL](https://github.com/Zomue/Zomue.github.io/tree/main/Midterm%20Lab%20Task)
+- Midterm Lab Task 1:[Data Cleaning and Preperation using EXCEL](https://zomue.github.io/Midterm-Lab-Task-1-/)
 
-- Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](https://github.com/Zomue/Zomue.github.io/blob/main/Midterm%20Lab%20Task%202/READ.md)
-
-- Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD using EXCEL](https://github.com/Zomue/Zomue.github.io/blob/main/Midterm%20Lab%20Task%203/READ.md)
+- Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](https://zomue.github.io/Midterm-Lab-Task-2/)
+- 
+- Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD using EXCEL](https://zomue.github.io/Midterm-Lab-Task-3/)
+- 
 ## MY Finals Projects:
-- Finals Lab Task 1:[My SQL Basics](https://github.com/Zomue/Zomue.github.io/blob/main/Finals%20Lab%20Task%201/Read.md)
+- Finals Lab Task 1:[My SQL Basics](https://zomue.github.io/Finals-Lab-Task-1/)
 
-- Finals Lab Task 2:[MYSQL Databae Creation](https://github.com/Zomue/Zomue.github.io/blob/main/Finals%20Lab%20Task%202/Read.md)
+- Finals Lab Task 2:[MYSQL Databae Creation](https://zomue.github.io/Finals-Lab-Task-2/)
 
-- Finals Lab Task 3:[Table Manipulation](https://github.com/Zomue/Zomue.github.io/blob/main/Finals%20Lab%20Task%203/Read.md)
+- Finals Lab Task 3:[Table Manipulation](https://zomue.github.io/Finals-Lab-Task-3/)
 
 
-- Finals Lab Task: [MYSQL CLAUSE](https://github.com/Zomue/Zomue.github.io/blob/main/Finals%20Task%20(SQL%20CLAUSE)/ReaDME.md)
+- Finals Lab Task: [MYSQL CLAUSE](https://zomue.github.io/Finals-Lab-Task-3.1/)
