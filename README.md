@@ -1,4 +1,4 @@
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/prof%20pic%202.jpg)
+![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/prof%20pic%203.jpg)
 # About me:
 - Hi My name is "Renzo P. Yumang" I am 19 year old and currently studying at City College of Angeles. I am taking Batchelor of Science in Information Systems.
 
