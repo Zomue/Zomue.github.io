@@ -1,15 +1,15 @@
-### Finals Task 5.
+# Finals Task 5.
                                     Using SQL views and Stored Procedures 
                                       and Stored Functions
 Instructions: 
 
-# 1. To have an idea of how SQL views work, kindly read the lecture on SQL views and stored procedures, then you may try the following examples in MySQL Workbench: 
-# 2. Start Xampp and MySQL Workbench – create or start a connection 
-# 4. Open the democodes.sql, and you may try executing all the examples using the hrd.sql file
+## 1. To have an idea of how SQL views work, kindly read the lecture on SQL views and stored procedures, then you may try the following examples in MySQL Workbench: 
+## 2. Start Xampp and MySQL Workbench – create or start a connection 
+## 4. Open the democodes.sql, and you may try executing all the examples using the hrd.sql file
 
-# 5. AFTER the practice codes…. Perform the required SQL statements of the ff: use inventory.sql for this.
+## 5. AFTER the practice codes…. Perform the required SQL statements of the ff: use inventory.sql for this.
 
-# 6. Print screen the appropriate sql and output per item
+## 6. Print screen the appropriate sql and output per item
 CREATE A VIEW that will display the vendors_code, vendors name, product description p_indate, of all products with p_indate from 2002 onwards
 
 CREATE a VIEW that will display all products whose price range is between 100-150
