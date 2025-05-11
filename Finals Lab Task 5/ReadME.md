@@ -22,3 +22,7 @@ CREATE a STORED PROCEDURE that WILL take a SINGLE PARAMETER and UPDATED the Name
 
 CREATE A Function that will take 2 parameters(v_code and v_state) and display All the product description and price based on the parameters passed to the function
 
+# SCREENSHOTS OF THE OUTPUT! 
+
+
+
