@@ -23,6 +23,6 @@
 - Finals Lab Task 3:[Table Manipulation](https://zomue.github.io/Finals-Lab-Task-3/)
 
 
-- Finals Lab Task: [MYSQL CLAUSE](https://zomue.github.io/Finals-Lab-Task-3.1/)
+- Finals Lab Task 4: [MYSQL CLAUSE](https://zomue.github.io/Finals-Lab-Task-3.1/)
 
 - Finals Lab Task 5:[Views]()
