@@ -1,4 +1,4 @@
-
+#### ![Image](https://github.com/user-attachments/assets/1a03fc5c-1581-42fe-ba15-0390152673c7)
 # About me:
 - Hi My name is "Renzo P. Yumang" I am 19 year old and currently studying at City College of Angeles. I am taking Batchelor of Science in Information Systems.
 
