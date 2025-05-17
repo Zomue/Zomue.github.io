@@ -16,5 +16,7 @@ query the `movies` collection to
 
 ## Delete Documents
 
+# screenshot 1
 ![Image](https://github.com/user-attachments/assets/0f9dbf54-7c45-4bbd-944c-7f37f26a8b2f)
+
 
